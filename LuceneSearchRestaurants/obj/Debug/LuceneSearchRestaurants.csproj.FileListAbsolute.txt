@@ -1,0 +1,11 @@
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\LuceneSearchRestaurants.exe.config
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\LuceneSearchRestaurants.exe
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\LuceneSearchRestaurants.pdb
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\Lucene.Net.dll
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\Lucene.Net.pdb
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\bin\Debug\Lucene.Net.xml
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\obj\Debug\LuceneSearchRestaurants.csprojResolveAssemblyReference.cache
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\obj\Debug\LuceneSearchRestaurants.csproj.CoreCompileInputs.cache
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\obj\Debug\LuceneSearchRestaurants.exe
+D:\Training\Elastic Search Assisgnements\LuceneSearchRestaurants\LuceneSearchRestaurants\obj\Debug\LuceneSearchRestaurants.pdb
